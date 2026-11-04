@@ -18,16 +18,6 @@ document.querySelector('#themeToggle')?.addEventListener('click', () => {
   document.querySelector('meta[name="theme-color"]').content = light ? '#f5f6f2' : '#080b12';
 });
 
-document.querySelectorAll('.filter').forEach(button => {
-  button.addEventListener('click', () => {
-    document.querySelectorAll('.filter').forEach(item => item.classList.remove('active'));
-    button.classList.add('active');
-    const filter = button.dataset.filter;
-    document.querySelectorAll('.project-card').forEach(card => {
-      card.classList.toggle('hidden', filter !== 'all' && card.dataset.category !== filter);
-    });
-  });
-});
 
 const observer = new IntersectionObserver(entries => {
   entries.forEach(entry => {
