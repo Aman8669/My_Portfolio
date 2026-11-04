@@ -1,26 +1,66 @@
-# Aman Naikwade — Portfolio
+# Personal Portfolio Website
 
-A responsive, interactive personal portfolio built with plain HTML, CSS, and JavaScript.
+Welcome to my personal portfolio! This website showcases my technical skills, projects, internship experience, education, and achievements as an aspiring **Java Full Stack Developer**.
 
-## Run locally
-1. Extract the ZIP.
-2. Open `index.html` in a browser, or use VS Code + Live Server.
-3. Update the contact email and any project details before publishing.
+## About Me
 
-## Personalize before publishing
-- In `index.html`, replace `YOUR_EMAIL@example.com` with your real email.
-- Check project descriptions and status labels for accuracy.
-- Add your LinkedIn profile URL if you want it linked.
-- Add project-specific repository URLs where available.
-- The CognitiveNotes card currently links to your GitHub profile because a specific repository URL was not provided.
+Hi, I'm Aman Nasir Naikwade, a B.Tech graduate in Electronics and Computer Engineering with an interest in Java Backend and Full Stack Development.
 
-## Deploy
-You can deploy the folder using GitHub Pages, Netlify, or Vercel as a static site. No build step is required.
+I enjoy building web applications and learning new technologies to solve real-world problems.
 
-## Included interactions
-- Responsive mobile navigation
-- Dark/light theme toggle
-- Project category filters
-- Scroll reveal animations
-- Subtle pointer glow on desktop
-- Animated technology ticker
+## Built With
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+
+## Features
+
+- Clean and modern user interface
+- Fully responsive design
+- Interactive navigation
+- Smooth scrolling and animations
+- About Me section
+- Technical Skills section
+- Projects showcase
+- Internship Experience
+- Education and Achievements
+- Contact section
+
+## Projects
+
+Some of my featured projects include:
+
+- **CognitiveNotes** – A secure note management application built using Java, Spring Boot, React, and PostgreSQL.
+- **Student CRUD Application** – A full-stack student management application using Spring Boot and React.
+- **WonderLust** – A web application built to explore and manage travel listings.
+
+## Getting Started
+
+To run this portfolio locally:
+
+1. Clone the repository:
+
+   ```bash
+   git clone YOUR_REPOSITORY_URL
+   ```
+
+2. Open the project folder in VS Code.
+
+3. Open `index.html` in your browser or use the Live Server extension.
+
+## Connect With Me
+
+- **GitHub:** https://github.com/Aman8669
+- **Portfolio:** https://aman-naikwade-portfolio.onrender.com/
+
+## Author
+
+**Aman Nasir Naikwade**
+
+Aspiring Java Full Stack Developer
+
+---
+
+If you like my portfolio, feel free to ⭐ the repository!
