@@ -43,7 +43,7 @@ To run this portfolio locally:
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/Aman8669/My_Portfolio
    ```
 
 2. Open the project folder in VS Code.
